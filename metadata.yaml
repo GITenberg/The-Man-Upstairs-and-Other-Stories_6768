@@ -1,0 +1,35 @@
+_repo: The-Man-Upstairs-and-Other-Stories_6768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The Man Upstairs -- Something To Worry About -- Deep Waters -- When
+  Doctors Disagree -- By Advice Of Counsel -- Rough-Hew Them How We Will -- The Man
+  Who Disliked Cats -- Ruth In Exile -- Archibald's Benefit -- The Man, The Maid,
+  And The Miasma -- The Good Angel -- Pots O' Money -- Out Of School -- Three From
+  Dunsterville -- The Tuppenny Millionaire -- Ahead Of Schedule -- Sir Agravaine --
+  The Goal-Keeper And The Plutocrat -- In Alcala.
+title: The Man Upstairs and Other Stories
+url: http://www.gutenberg.org/ebooks/6768
